@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>logo_tree.png</file>
+    </qresource>
+    <qresource prefix="/txt">
+        <file>userlist.txt</file>
+    </qresource>
+</RCC>
